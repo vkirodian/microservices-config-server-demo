@@ -15,7 +15,7 @@ maven clean install
 Once the project is successfully built, you can run the following command:
 
 ```bash
-java -jar .\target\microservices-config-server-demo-1
+java -jar .\target\microservices-config-server-demo-1.jar
 ```
 
 The application would run at the configured port and act as a configuration server for all your micro-services.
